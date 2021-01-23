@@ -1,0 +1,43 @@
+body {
+    background-color: royalblue;
+    font-weight: inherit;
+    font-family:Arial;
+}
+
+h3 {
+    color:whitesmoke;
+    font-family: Symbol;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    height: inherit;
+    width: 180px;
+}
+
+p:hover {
+    color: silver;
+}
+
+.lime {
+    color: whitesmoke;
+    background-color: limegreen;
+}
+
+.oliv {
+    color: whitesmoke;
+    background-color: olivedrab;
+}
+
+.darkgreen {
+    color: whitesmoke;
+    background: darkgreen;
+}
+
+#adatok {
+    width: 180px;
+}
